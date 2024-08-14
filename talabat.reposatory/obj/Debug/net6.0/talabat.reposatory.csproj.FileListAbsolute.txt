@@ -1,0 +1,15 @@
+D:\back\Api\rootproject\talabat.GO1.Solution\talabat.reposatory\bin\Debug\net6.0\talabat.reposatory.deps.json
+D:\back\Api\rootproject\talabat.GO1.Solution\talabat.reposatory\bin\Debug\net6.0\talabat.reposatory.dll
+D:\back\Api\rootproject\talabat.GO1.Solution\talabat.reposatory\bin\Debug\net6.0\talabat.reposatory.pdb
+D:\back\Api\rootproject\talabat.GO1.Solution\talabat.reposatory\bin\Debug\net6.0\talabat.core.dll
+D:\back\Api\rootproject\talabat.GO1.Solution\talabat.reposatory\bin\Debug\net6.0\talabat.core.pdb
+D:\back\Api\rootproject\talabat.GO1.Solution\talabat.reposatory\obj\Debug\net6.0\talabat.reposatory.csproj.AssemblyReference.cache
+D:\back\Api\rootproject\talabat.GO1.Solution\talabat.reposatory\obj\Debug\net6.0\talabat.reposatory.GeneratedMSBuildEditorConfig.editorconfig
+D:\back\Api\rootproject\talabat.GO1.Solution\talabat.reposatory\obj\Debug\net6.0\talabat.reposatory.AssemblyInfoInputs.cache
+D:\back\Api\rootproject\talabat.GO1.Solution\talabat.reposatory\obj\Debug\net6.0\talabat.reposatory.AssemblyInfo.cs
+D:\back\Api\rootproject\talabat.GO1.Solution\talabat.reposatory\obj\Debug\net6.0\talabat.reposatory.csproj.CoreCompileInputs.cache
+D:\back\Api\rootproject\talabat.GO1.Solution\talabat.reposatory\obj\Debug\net6.0\talabat.reposatory.csproj.CopyComplete
+D:\back\Api\rootproject\talabat.GO1.Solution\talabat.reposatory\obj\Debug\net6.0\talabat.reposatory.dll
+D:\back\Api\rootproject\talabat.GO1.Solution\talabat.reposatory\obj\Debug\net6.0\refint\talabat.reposatory.dll
+D:\back\Api\rootproject\talabat.GO1.Solution\talabat.reposatory\obj\Debug\net6.0\talabat.reposatory.pdb
+D:\back\Api\rootproject\talabat.GO1.Solution\talabat.reposatory\obj\Debug\net6.0\ref\talabat.reposatory.dll
